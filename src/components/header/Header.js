@@ -6,7 +6,7 @@ const Header = () => {
         <div className ="header__wrapper">
             <div class="wrapper">
                 <div class="typing-demo">
-                Hello, my name is Igor!wawawawa
+                Hello, my name is Igor!
                 </div>
             </div>
         </div>
