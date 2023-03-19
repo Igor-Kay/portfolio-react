@@ -6,12 +6,11 @@ const Header = () => {
         <div className ="header__wrapper">
             <div class="wrapper">
                 <div class="typing-demo">
-                Hello, my name is Igor!
+                Hello, my name is Igor!wawawawa
                 </div>
             </div>
         </div>
     </header>
     );
 }
-//asdasdasdad
 export default Header;
